@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cellularmi_visor/static/css/main.09832895.css",
+    "main.js": "/cellularmi_visor/static/js/main.eb71b761.js",
+    "static/js/787.142d46c3.chunk.js": "/cellularmi_visor/static/js/787.142d46c3.chunk.js",
+    "index.html": "/cellularmi_visor/index.html",
+    "main.09832895.css.map": "/cellularmi_visor/static/css/main.09832895.css.map",
+    "main.eb71b761.js.map": "/cellularmi_visor/static/js/main.eb71b761.js.map",
+    "787.142d46c3.chunk.js.map": "/cellularmi_visor/static/js/787.142d46c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09832895.css",
+    "static/js/main.eb71b761.js"
+  ]
+}
