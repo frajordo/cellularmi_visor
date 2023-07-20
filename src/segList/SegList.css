@@ -1,0 +1,43 @@
+.segList{
+    overflow: scroll;
+}
+
+.spinner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table>thead>tr>th, .tableBodyCell{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table>thead{
+    background-color: rgb(15 118 110);
+    color: whitesmoke;
+}
+
+.tableBodyCell{
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    text-align: center;
+}
+
+table>tbody>tr{
+    cursor: pointer;
+}
+
+.table>tbody>tr:hover{
+    background-color: rgba(15, 118, 109, 0.308);
+}
